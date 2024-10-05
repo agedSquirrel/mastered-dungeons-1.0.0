@@ -1,0 +1,15 @@
+{
+  "item.mdungeons.reinforced_leather": "Reinforced Leather",
+  "item.mdungeons.golden_stew": "Golden Stew",
+
+  "item.mdungeons.deepcoal": "Deepcoal",
+
+  "block.mdungeons.compact_tuff": "Compact Tuff",
+  "block.mdungeons.deepcoal_ore": "Deepcoal Ore",
+  "block.mdungeons.dense_deepcoal_ore": "Dense Deepcoal Ore",
+
+  "itemgroup.mdungeons.modded_items": "Modded Items",
+
+  "tooltip.mdungeons.golden_soup": "Press §6§lSHIFT§r for more Information",
+  "tooltip.mdungeons.golden_soup.shift_down": "Better be careful not to eat the §l§7bowl§r, it looks mighty §etasty§r."
+}
